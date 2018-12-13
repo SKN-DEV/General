@@ -1,7 +1,7 @@
 # General
 General Hub for the group
 
-First Think, install GitKraken
+First Thing, install GitKraken
 https://www.gitkraken.com/
 
 login to your github account.
@@ -21,4 +21,6 @@ Thats all for now.
 
 
 SIGN UP HERE:
+
+
 nigthyknigh - Scott
