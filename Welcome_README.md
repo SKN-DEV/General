@@ -1,8 +1,6 @@
 # General
 General Hub for the group
 
-First Thing, install GitKraken
-https://www.gitkraken.com/
 
 login to your github account.
 once you have done that edit this file and put your username with a dash and your name.
